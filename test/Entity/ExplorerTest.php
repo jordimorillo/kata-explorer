@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Tests\Entity;
+
 use KataExplorer\Entity\Explorer;
 use PHPUnit\Framework\TestCase;
 
